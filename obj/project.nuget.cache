@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1vV+3tnWeqZcTef82OTBkNPV532lEiXvK3eHGHTI96xJc+R6tTBeJU3LDy+RUY29LC6sOTqJr9XLYedWmFOvg==",
+  "dgSpecHash": "co6tQrTiavto+lNg+tBK+GIBSuENXHhoqyG+Yno9izhhL2kFOKfA0afBCP8W9akwno46oWFTC8Q9rOlmggHY0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj",
+  "projectFilePath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.8\\microsoft.aspnetcore.authorization.5.0.8.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.8\\microsoft.aspnetcore.components.5.0.8.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

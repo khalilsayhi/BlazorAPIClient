@@ -618,7 +618,6 @@ C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\build-gz\9vlejgxo.gz
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\build-gz\8xRchbq9.gz
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\build-gz\lbZG9nXc.gz
-C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\build-gz\Wvvgyg+6.gz
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\staticwebassets\blazorAPIClient.StaticWebAssets.Manifest.cache
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\staticwebassets\blazorAPIClient.StaticWebAssets.xml
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
@@ -630,3 +629,11 @@ C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\blazorAPIClient.dll
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\ref\blazorAPIClient.dll
 C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\blazorAPIClient.pdb
+C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.razor.g.cs
+C:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\obj\Debug\net5.0\build-gz\E4tdp9cv.gz
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Launches.razor.g.cs
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Launches.razor.g.cs
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\obj\Debug\net5.0\build-gz\CGJ0BK2x.gz

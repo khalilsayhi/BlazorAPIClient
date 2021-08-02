@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj",
+  "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -8,76 +8,10 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -519889256,
+        "HashCode": 1237785449,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.App",
-        "AssemblyName": "blazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.App"
-        }
-      },
-      {
-        "HashCode": -132784908,
-        "Kind": "Components.Component",
-        "Name": "blazorAPIClient.App",
-        "AssemblyName": "blazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorAPIClient.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2067627113,
-        "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.Counter",
-        "AssemblyName": "blazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1178710391,
-        "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.Counter",
-        "AssemblyName": "blazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorAPIClient.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 11321617,
-        "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.FetchData",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Pages.FetchData",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -86,31 +20,130 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.FetchData"
+          "Common.TypeName": "BlazorAPIClient.Pages.FetchData"
         }
       },
       {
-        "HashCode": 1323609904,
+        "HashCode": 328962556,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.FetchData",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Pages.FetchData",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorAPIClient.Pages.FetchData"
+            "TagName": "BlazorAPIClient.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.FetchData",
+          "Common.TypeName": "BlazorAPIClient.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 610482436,
+        "HashCode": 788914653,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.Index",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Pages.Launches",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Launches"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Launches"
+        }
+      },
+      {
+        "HashCode": 418234113,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Launches",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Launches"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Launches",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1755268167,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Base64Converter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Base64Converter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Base64Converter"
+        }
+      },
+      {
+        "HashCode": -1112273997,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Base64Converter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Base64Converter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Base64Converter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1653690262,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Counter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -296419705,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Counter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1754588549,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Index",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -119,84 +152,64 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.Index"
+          "Common.TypeName": "BlazorAPIClient.Pages.Index"
         }
       },
       {
-        "HashCode": -2088959055,
+        "HashCode": 1247270284,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Pages.Index",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Pages.Index",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorAPIClient.Pages.Index"
+            "TagName": "BlazorAPIClient.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Pages.Index",
+          "Common.TypeName": "BlazorAPIClient.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1319557196,
+        "HashCode": 1762338576,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Shared.SurveyPrompt",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.App",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazorAPIClient.App"
         }
       },
       {
-        "HashCode": -993211053,
+        "HashCode": 1799675895,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Shared.SurveyPrompt",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.App",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorAPIClient.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "BlazorAPIClient.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorAPIClient.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -128919896,
+        "HashCode": -1875633477,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Shared.MainLayout",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Shared.MainLayout",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -217,18 +230,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Shared.MainLayout"
+          "Common.TypeName": "BlazorAPIClient.Shared.MainLayout"
         }
       },
       {
-        "HashCode": -1854444002,
+        "HashCode": 1081165508,
         "Kind": "Components.Component",
-        "Name": "blazorAPIClient.Shared.MainLayout",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Shared.MainLayout",
+        "AssemblyName": "BlazorAPIClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorAPIClient.Shared.MainLayout"
+            "TagName": "BlazorAPIClient.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -245,15 +258,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorAPIClient.Shared.MainLayout",
+          "Common.TypeName": "BlazorAPIClient.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1801470301,
+        "HashCode": 1304914555,
         "Kind": "Components.ChildContent",
-        "Name": "blazorAPIClient.Shared.MainLayout.Body",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Shared.MainLayout.Body",
+        "AssemblyName": "BlazorAPIClient",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -264,27 +277,113 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazorAPIClient.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorAPIClient.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": 341605005,
+        "HashCode": -700157605,
         "Kind": "Components.ChildContent",
-        "Name": "blazorAPIClient.Shared.MainLayout.Body",
-        "AssemblyName": "blazorAPIClient",
+        "Name": "BlazorAPIClient.Shared.MainLayout.Body",
+        "AssemblyName": "BlazorAPIClient",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "blazorAPIClient.Shared.MainLayout"
+            "ParentTag": "BlazorAPIClient.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazorAPIClient.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorAPIClient.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -108819779,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 601905238,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 513441073,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.NavMenu",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1040999304,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.NavMenu",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -12973,50 +13072,55 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "blazorAPIClient",
+  "RootNamespace": "BlazorAPIClient",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Pages\\Base64Converter.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Pages\\Base64Converter.razor",
       "TargetPath": "Pages\\Base64Converter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Pages\\Index.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\App.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\_Imports.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Pages\\Launches.razor",
+      "TargetPath": "Pages\\Launches.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     }

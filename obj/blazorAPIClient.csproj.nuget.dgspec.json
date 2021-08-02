@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj": {}
+    "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj": {
+    "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj",
-        "projectName": "blazorAPIClient",
-        "projectPath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\blazorAPIClient.csproj",
+        "projectUniqueName": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj",
+        "projectName": "BlazorAPIClient",
+        "projectPath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\BlazorAPIClient.csproj",
         "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\blazorAPIClient\\obj\\",
+        "outputPath": "C:\\Users\\khali\\Desktop\\Coursera courses\\blazorApi\\BlazorAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",

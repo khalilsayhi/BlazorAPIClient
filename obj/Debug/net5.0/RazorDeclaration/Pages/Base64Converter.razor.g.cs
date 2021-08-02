@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace blazorAPIClient.Pages
+namespace BlazorAPIClient.Pages
 {
     #line hidden
     using System;
@@ -13,75 +13,83 @@ namespace blazorAPIClient.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 1 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 2 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 3 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 4 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 5 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 6 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 7 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
+#line 8 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
-using blazorAPIClient;
+#line 9 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
+using BlazorAPIClient;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "c:\Users\khali\Desktop\Coursera courses\blazorApi\blazorAPIClient\_Imports.razor"
-using blazorAPIClient.Shared;
+#line 10 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
+using BlazorAPIClient.Shared;
 
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\_Imports.razor"
+using System.Text;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/base64converter")]
     public partial class Base64Converter : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -89,6 +97,42 @@ using blazorAPIClient.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 25 "C:\Users\khali\Desktop\Coursera courses\blazorApi\BlazorAPIClient\Pages\Base64Converter.razor"
+      
+    public string NonBase64Body { get; set; }
+    public string Base64Body { get; set; }
+
+    private void ConvertToBase64()
+    {
+        try
+        {
+            
+        var plainTextByte = Encoding.UTF8.GetBytes(NonBase64Body);
+        Base64Body = Convert.ToBase64String(plainTextByte);
+        }
+        catch (System.Exception ex)
+        {
+           Console.WriteLine(ex);
+        }
+    }
+
+    private void ConvertFromBase64()
+    {
+        try
+        {
+            var base64EncodedBytes = Convert.FromBase64String(Base64Body);
+            NonBase64Body = Encoding.UTF8.GetString(base64EncodedBytes);  
+        }
+        catch (System.Exception ex)
+        {
+           Console.WriteLine(ex);
+        }
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
